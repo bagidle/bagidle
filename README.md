@@ -1,9 +1,9 @@
-## ff
--ggg
+## 자기소개
+- ggg
 ## sss
--ggg
+- ggg
 ## ddd
--fff
+- fff
 <!--
 **bagidle/bagidle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
